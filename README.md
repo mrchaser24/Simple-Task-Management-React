@@ -1,8 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Welcome to my Simple Task Management application
 
 ## Getting Started
 
-First, install the package, I did add legacy as some dependency is using the older version of react:
+First, install the package, I did add legacy command as some dependency is using the older version of react, but don't worry it will work fine:
 
 ```bash
 npm i --legacy-peer-deps
